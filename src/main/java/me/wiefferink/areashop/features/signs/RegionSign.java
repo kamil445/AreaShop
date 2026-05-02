@@ -187,6 +187,7 @@ public class RegionSign {
 			signState.getSide(Side.FRONT).setLine(i, signLines[i]);
 			signState.getSide(Side.BACK).setLine(i, signLines[i]);
 		}
+		signState.setWaxed(true);
 		signState.update();
 		return true;
 	}
