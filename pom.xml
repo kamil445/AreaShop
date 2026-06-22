@@ -57,13 +57,13 @@
       <groupId>com.sk89q.worldedit</groupId>
       <artifactId>worldedit-bukkit</artifactId>
       <scope>provided</scope>
-      <version>7.4.2</version>
+      <version>7.4.3</version>
     </dependency>
     <dependency>
       <groupId>com.sk89q.worldguard</groupId>
       <artifactId>worldguard-bukkit</artifactId>
       <scope>provided</scope>
-      <version>7.0.16</version>
+      <version>7.0.17</version>
     </dependency>
 
     <!-- Vault -->
